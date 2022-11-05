@@ -9,8 +9,8 @@ user-setup
 efibootmgr
 secureboot-db
 
-grub-efi-amd64
-grub-efi-amd64-bin
-grub-efi-amd64-signed
+grub-efi-arm64
+grub-efi-arm64-bin
+grub-efi-arm64-signed
 shim
 shim-signed
