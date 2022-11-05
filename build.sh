@@ -94,7 +94,7 @@ build () {
 }
 
 if [[ "$ARCH" == "all" ]]; then
-    build amd64
+    build arm64
 else
     build "$ARCH"
 fi
